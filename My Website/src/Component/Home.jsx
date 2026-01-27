@@ -1,4 +1,6 @@
 import React from "react";
+import { Form } from "react-router-dom";
+
 
 const Home = () => {
   return (
@@ -13,6 +15,7 @@ const Home = () => {
           <button>Explore</button>
         </div>
       </div>
+      <img />
     </div>
   );
 };
